@@ -1,7 +1,7 @@
 # madOS Linux
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/madoslinux/mad-os/refs/heads/main/airootfs/usr/share/plymouth/themes/mados/logo.png" alt="madOS Logo" width="200"/>
+  <img src="https://raw.githubusercontent.com/madoslinux/madoslinux.github.io/main/mados-logo.png" alt="madOS Logo" width="200"/>
 </p>
 
 <p align="center">
